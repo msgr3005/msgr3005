@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola, mi nombre es Mauricio👋
+
+[![LinkedIn](https://img.shields.io/badge/test%20ok--green?style=flat&logo=linkedin&logoColor=white&label=LinkedIn&labelColor=%230A66C2&color=white&cacheSeconds=3600&link=https%3A%2F%2Fpe.linkedin.com%2Fin%2Fmauricio-gallegos-ramos-33a406258)](https://pe.linkedin.com/in/mauricio-gallegos-ramos-33a406258)
 
 <!--
 **msgr3005/msgr3005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
